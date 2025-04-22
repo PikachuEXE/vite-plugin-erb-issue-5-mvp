@@ -1,0 +1,20 @@
+{
+  "name": "vite-plugin-erb-issue-5-mvp",
+  "main": "index.js",
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-legacy": "^6.0.1",
+    "rollup-plugin-gzip": "^4.0.1",
+    "vite": "^6.3.2",
+    "vite-plugin-erb": "^1.1.2",
+    "vite-plugin-ruby": "^5.1.1"
+  },
+  "dependencies": {
+    "i18n-js": "^3.9.2"
+  },
+  "engines": {
+    "node": ">=20.0"
+  }
+}

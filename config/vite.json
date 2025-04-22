@@ -1,0 +1,20 @@
+{
+  "all": {
+    "sourceCodeDir": "app/assets",
+    "entrypointsDir": "entrypoints",
+    "watchAdditionalPaths": []
+  },
+  "development": {
+    "autoBuild": true,
+    "publicOutputDir": "vite-dev",
+    "host": "localhost",
+    "port": 3036,
+    "https": true,
+    "skipProxy": true
+  },
+  "test": {
+    "autoBuild": true,
+    "publicOutputDir": "vite-test",
+    "port": 3037
+  }
+}

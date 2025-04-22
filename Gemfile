@@ -26,7 +26,7 @@ gem "kamal", require: false
 # Add HTTP asset caching/compression and X-Sendfile acceleration to Puma [https://github.com/basecamp/thruster/]
 gem "thruster", require: false
 
-gem "i18n-js", "~> 3.9.2"
+gem "i18n-js", "~> 4.2.3"
 gem "vite_rails", ">= 3.0.19"
 gem "vite_plugin_legacy", ">= 3.0.2"
 

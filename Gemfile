@@ -30,6 +30,9 @@ gem "i18n-js", "~> 3.9.2"
 gem "vite_rails", ">= 3.0.19"
 gem "vite_plugin_legacy", ">= 3.0.2"
 
+# gem "memo_wise", "~> 1.11.0"
+gem "memo_wise", ">= 1.11.0"
+
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
   gem "debug", platforms: %i[ mri windows ], require: "debug/prelude"

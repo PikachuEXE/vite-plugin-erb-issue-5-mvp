@@ -7,7 +7,7 @@
   "devDependencies": {
     "@vitejs/plugin-legacy": "^6.0.1",
     "rollup-plugin-gzip": "^4.0.1",
-    "vite": "^6.3.2",
+    "vite": "7.0.6",
     "vite-plugin-erb": "^1.1.2",
     "vite-plugin-ruby": "^5.1.1"
   },
